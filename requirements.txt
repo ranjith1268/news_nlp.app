@@ -4,5 +4,5 @@ matplotlib
 seaborn
 wordcloud
 collections
- plotly
+plotly
 numpy
