@@ -3,6 +3,5 @@ pandas
 matplotlib
 seaborn
 wordcloud
-collections
 plotly
 numpy
